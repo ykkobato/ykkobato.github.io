@@ -1,2 +1,2 @@
-# rifky.github.io
+# ykkobato.github.io
 Tugas Mapel SIJDA
